@@ -1,0 +1,3 @@
+C:/Users/okerbs/Documents/LearnFreeRTOS/build/CMakeFiles/freertos_app.dir
+C:/Users/okerbs/Documents/LearnFreeRTOS/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/okerbs/Documents/LearnFreeRTOS/build/CMakeFiles/ZERO_CHECK.dir

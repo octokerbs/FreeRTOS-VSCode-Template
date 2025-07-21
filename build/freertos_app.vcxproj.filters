@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\heap_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\tasks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\timers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\stream_buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\croutine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\okerbs\Documents\LearnFreeRTOS\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A9350ED2-FB59-3F29-BF60-6D97654CEC4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

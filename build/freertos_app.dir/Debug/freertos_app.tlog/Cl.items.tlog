@@ -1,0 +1,9 @@
+C:\Users\okerbs\Documents\LearnFreeRTOS\main.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\main.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\heap_4.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\heap_4.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\list.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\list.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\port.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\port.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\queue.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\queue.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\tasks.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\tasks.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\timers.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\timers.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\stream_buffer.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\stream_buffer.obj
+C:\Users\okerbs\Documents\LearnFreeRTOS\FreeRTOS\croutine.c;C:\Users\okerbs\Documents\LearnFreeRTOS\build\freertos_app.dir\Debug\croutine.obj

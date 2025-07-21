@@ -1,0 +1,10 @@
+^C:\USERS\OKERBS\DOCUMENTS\LEARNFREERTOS\BUILD\CMAKEFILES\5546C07FEE0BBECBBC65A3420003F48C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/okerbs/Documents/LearnFreeRTOS -BC:/Users/okerbs/Documents/LearnFreeRTOS/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/okerbs/Documents/LearnFreeRTOS/build/FreeRTOSProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
